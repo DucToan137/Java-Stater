@@ -8,7 +8,7 @@ import java.util.Scanner;
 //- diện tích hình chữ nhật
 //- cạnh nhỏ nhất của hình chữ nhật
 
-public class Bai02 {
+public class Bai02_Lab01 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 

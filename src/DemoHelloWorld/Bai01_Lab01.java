@@ -9,7 +9,7 @@ import java.util.Scanner;
 //<tên sinh viên>: Eric
 //<điểm> : 10
 
-public class Bai01 {
+public class Bai01_Lab01 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
