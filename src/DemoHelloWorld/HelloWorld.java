@@ -2,7 +2,7 @@ package DemoHelloWorld;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello world with java");
-
+		int res = 5 + 9 * 3 - 10 / 2;
+		System.out.println("Result: " + res);
 	}
 }
