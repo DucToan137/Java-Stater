@@ -9,7 +9,7 @@ import java.util.Scanner;
 //- trên 30M: thuế 50%
 //Ví dụ: nhập vào 25M -> in ra kết quả "thuế 20%"
 
-public class TinhThue {
+public class Java_If {
 	public static void main(String[] args) {
 		int tax = 0;
 		Scanner scanner = new Scanner(System.in);
