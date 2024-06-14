@@ -1,11 +1,11 @@
-package DemoHelloWorld;
+package Lab01;
 
 import java.util.Scanner;
 
 //Viết chương trình nhập vào bàn phím cạnh của một khối lập phương.
 //Tính và xuất ra thể tích của hình lập phương.
 
-public class Bai03_Lab01 {
+public class Bai03 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
