@@ -2,10 +2,13 @@ package Chapter4;
 
 public class Student {
 
-	String name;
-	int age;
+	// class attributes
+	String _name;
+	int _age;
 
-	public void learnJava() {
+	// class method
+	void learnJava() {
 		System.out.println("Learn Java");
 	}
+
 }
