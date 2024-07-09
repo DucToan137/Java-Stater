@@ -2,7 +2,7 @@ package Chapter4;
 
 public class Demo {
 
-	int sum(int a, int b) {
+	int sum(int a, int b) { // k định nghĩa mặc định là public
 		int res = a + b;
 		return res;
 	}
