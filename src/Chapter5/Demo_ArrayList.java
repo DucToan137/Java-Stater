@@ -14,6 +14,8 @@ public class Demo_ArrayList {
 		ArrayList<Integer> a2 = new ArrayList<Integer>(); // generic
 		a2.add(2);
 		// a2.add("demo"); // báo lỗi
+		System.out.println(a2.toString());
 
+		ArrayList<Integer> a3 = new ArrayList(); // Java Diamond, compiler tự đoán kiểu dữ liệu
 	}
 }
