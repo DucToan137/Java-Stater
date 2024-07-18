@@ -1,10 +1,12 @@
 package Chapter7;
 
-public class SinhVien {
+public abstract class SinhVien {
 	protected String _id;
 	protected String _name;
 	protected double _price;
 	protected double _tax;
+
+	abstract void tinhDiem();
 
 	public SinhVien(String _id, String _name, double _price, double _tax) {
 		super();
