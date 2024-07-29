@@ -11,7 +11,10 @@ public class Demo_ReadWriteFile {
 		FileOutputStream out = null;
 
 		try {
+			// relative path . ..//linux
 			in = new FileInputStream("./src/Chapter10/input.txt");
+
+			// absolute path
 			out = new FileOutputStream("outagain.txt");
 			int c;
 
