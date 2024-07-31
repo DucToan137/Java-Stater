@@ -55,7 +55,7 @@ Tạo file: Nhấn chuột phải vào src -> New -> Class -> HelloWorld -> fini
 
 ##### Bước 4: Chạy chương trình
 
-**Cách 1**: Nhấn chuột phải vào HelloWorld.java -> Run as -> Java application
+**Cách 1**: Nhấn chuột phải vào HelloWorld.java -> Run as -> Java application <br>
 **Cách 2**: Open file location -> gõ lệnh: java HelloWorld.java
 
 ### #4. Setup Spring Tool Suite
